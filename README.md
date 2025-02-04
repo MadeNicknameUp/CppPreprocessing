@@ -15,10 +15,12 @@ This repository contains a C++ program that analyzes the number of people in roo
 
 1. Compile the program using a C++ compiler (e.g., `g++`):
    ```bash
-   g++ -o room_checker main.cpp```
+   g++ -o room_checker main.cpp
+   ```
 2. Run the compiled program:
    ```bash
-   ./room_checker```
+   ./room_checker
+   ```
 3. Enter the number of people in each of the 10 rooms. The program will output the room numbers that do not meet the conditions.
 
 ## Example
